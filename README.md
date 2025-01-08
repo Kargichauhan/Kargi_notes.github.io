@@ -1,1 +1,1 @@
-# Kargi-s_notes.github.io
+# Kargi_notes.github.io
